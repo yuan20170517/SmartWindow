@@ -1,8 +1,11 @@
+# Capture image
 from picamera import PiCamera
 
 camera = PiCamera()
 camera.capture('/home/pi/Desktop/window.jpg')
 
+
+# Upload image
 from google.cloud import storage
 
 client = storage.Client()
