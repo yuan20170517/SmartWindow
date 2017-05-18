@@ -9,9 +9,7 @@ state = GPIO.input(18)
 while(1):
 
     if (state == 0):
-        print "It is raining."
+        main.rain = 0
     else:
-        print "It is not raining."
-
-    sleep(5)
+        main.rain = 1
 
