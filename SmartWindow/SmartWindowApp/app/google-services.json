@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808019946416",
+    "firebase_url": "https://smartwindow-91b1c.firebaseio.com",
+    "project_id": "smartwindow-91b1c",
+    "storage_bucket": "smartwindow-91b1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808019946416:android:babc74f2025e9575",
+        "android_client_info": {
+          "package_name": "ee3032.smartwindow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808019946416-7uip7i8opaadkjcl0fked766jtg8pjfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ee3032.smartwindow",
+            "certificate_hash": "25c69c14312dcbc76ad5210d8cea5633bb0bb97c"
+          }
+        },
+        {
+          "client_id": "808019946416-t0cfq8na55doe47e01km8i4b2f6ndjs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeODYFo9HMdq9fBUzET3gK_2mh5MfuETg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808019946416-t0cfq8na55doe47e01km8i4b2f6ndjs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

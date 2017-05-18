@@ -1,0 +1,5 @@
+first run the code: sudo pigpiod
+
+ensure in the right directory (with humTempSensor.py)
+
+python humTempSensor.py
