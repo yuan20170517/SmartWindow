@@ -4,8 +4,7 @@ import time
 import stream
 
 # while loop with delay
-count = 1
-while (count == 1):
+while 1:
 
     # check rain sensor
     import rainsensor
