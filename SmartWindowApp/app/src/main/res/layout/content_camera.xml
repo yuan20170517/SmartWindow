@@ -6,6 +6,6 @@
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="ee3032.smartwindow.Camera"
-    tools:showIn="@layout/app_bar">
+    tools:showIn="@layout/app_bar_camera">
 
 </android.support.constraint.ConstraintLayout>

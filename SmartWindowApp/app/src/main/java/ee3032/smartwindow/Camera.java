@@ -80,9 +80,8 @@ public class Camera extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-
         navigationView.getMenu().getItem(2).setChecked(true);
-
+        setTitle("Camera");
     }
 
     @Override
